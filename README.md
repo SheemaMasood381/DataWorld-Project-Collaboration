@@ -4,7 +4,8 @@ This repository is part of my collaboration with **DataWorld**. It contains the 
 
 ## Project Overview
 
-Project 01: Creadit Card Fraud Detection
+Project 01: Credit Card Fraud Detection
+
 The project involves:
 - **Data Analysis**: Performing exploratory data analysis (EDA) to uncover patterns and trends.
 - **Fraud Detection**: Building and evaluating models to detect fraudulent transactions.
