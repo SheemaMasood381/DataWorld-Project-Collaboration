@@ -27,6 +27,22 @@ To run this project, you need to have Python and the following libraries install
 - matplotlib
 - seaborn
 
+### Project 02: Heart Disease Analysis  
+
+This project focuses on understanding key risk indicators for heart disease. The goal is to analyze the dataset, explore patterns, and identify correlations among health metrics to aid in early detection and prevention of heart disease.  
+
+#### Dataset Details  
+- **Dataset Name:** Heart Disease Data  
+- **Source:** [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)  
+- **Description:** The dataset contains 920 records with 16 attributes, including patient demographics, medical test results, and a target variable indicating the presence and severity of heart disease.  
+
+#### The project involves:  
+- **Exploratory Data Analysis (EDA)**: Exploring patterns in age, gender, cholesterol, blood pressure, and heart rate.  
+- **Target Variable Analysis**: Understanding the distribution of heart disease severity levels.  
+- **Insights**: Identifying correlations among health metrics and heart disease risk.  
+- **Visualization**: Creating detailed visualizations to communicate findings.  
+
+
 ## the Collaboration Status
 
 currently in progress. The repository will be updated as the project evolves and new milestones are achieved.
