@@ -66,10 +66,13 @@ streamlit run app.py
 
 We welcome contributions! Feel free to open issues, submit PRs, or suggest improvements. Let’s collaborate and make this project even better! 🚀
 
+**************************************************************************************************************************************************
 ## 📞 Contact
 For any queries or collaborations, reach out:
 📧 Email: sheemamasood381@gmail.com 
+
 🔗 LinkedIn: [Sheema MAsood](https://www.linkedin.com/in/sheema-masood/)  
+
 🐙 GitHub: [Sheema Masood](https://github.com/sheemamasood381/)  
 
 ---
