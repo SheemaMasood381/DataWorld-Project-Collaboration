@@ -68,9 +68,9 @@ We welcome contributions! Feel free to open issues, submit PRs, or suggest impro
 
 ## 📞 Contact
 For any queries or collaborations, reach out:
-📧 Email: your-email@example.com  
-🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/sheema-masood/)  
-🐙 GitHub: [Your GitHub](https://github.com/sheemamasood381/)  
+📧 Email: sheemamasood381@gmail.com 
+🔗 LinkedIn: [Sheema MAsood](https://www.linkedin.com/in/sheema-masood/)  
+🐙 GitHub: [Sheema Masood](https://github.com/sheemamasood381/)  
 
 ---
 ⭐ If you like this project, consider giving it a star on GitHub! ⭐
