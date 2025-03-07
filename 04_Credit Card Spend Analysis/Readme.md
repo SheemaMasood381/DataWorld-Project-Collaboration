@@ -44,17 +44,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📂 Project Structure
-```
-📁 credit-card-spend-forecasting
-│-- 📂 data                  # Sample transaction data
-│-- 📂 models                # Trained models & saved predictions
-│-- 📂 notebooks             # Jupyter notebooks for analysis
-│-- app.py                   # Streamlit Web App
-│-- requirements.txt         # Dependencies
-│-- README.md                # Project Documentation
-```
-
 ## 📈 Example Visualizations
 
 - **Spending Trends Over Time** 📊  
